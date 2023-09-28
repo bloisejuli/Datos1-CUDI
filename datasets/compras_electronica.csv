@@ -1,106 +1,106 @@
-ID,Fecha,Producto,Categoría,Precio,Cliente,Comentarios,Marca
-1,2022-11-02,iPhone,Smartphone,828.03,Manuel,Sin comentarios,Apple
-2,2023-07-30,Apple Watch,Wearable,1359.79,Pedro,Calidad premium,Apple
-3,2023-09-13,iPhone,Smartphone,778.17,Juan,Llegó a tiempo,Apple
-4,2023-05-08,Charger,Accesorio,1804.25,Ana,Insatisfecho con el producto,Otras Marcas
-5,2023-05-23,Samsung Galaxy,Smartphone,930.4,Manuel,Sin comentarios,Otras Marcas
-6,2023-06-03,iPad,Tablet,533.42,Javier,Sin comentarios,Apple
-7,2023-07-16,MacBook,Laptop,174.85,Javier,Excelente compra,Apple
-8,2023-08-04,Apple Watch,Wearable,91.02,Juan,Sin comentarios,Apple
-9,2022-10-14,Sony Headphones,Accesorio de Audio,1130.15,Juan,Sin comentarios,Otras Marcas
-10,2022-12-20,Charger,Accesorio,1197.46,Carmen,Llegó a tiempo,Otras Marcas
-11,2023-08-12,Apple Watch,Wearable,64.02,Marta,Insatisfecho con el producto,Apple
-12,2022-11-27,Lenovo Laptop,Laptop,1430.29,Carmen,Funciona bien,Otras Marcas
-13,2023-02-21,Samsung Galaxy,Smartphone,164.8,Sofía,Insatisfecho con el producto,Otras Marcas
-14,2023-09-09,Lenovo Laptop,Laptop,181.43,Carlos,Llegó a tiempo,Otras Marcas
-15,2023-09-10,AirPods,Accesorio de Audio,111.26,Pedro,Sin comentarios,Apple
-16,2023-08-09,iPad,Tablet,694.34,Juan,Llegó a tiempo,Apple
-17,2023-06-06,AirPods,Accesorio de Audio,1052.6,Marta,Excelente compra,Apple
-18,2023-05-29,Apple Watch,Wearable,593.03,Pedro,Funciona bien,Apple
-19,2023-01-10,Dell XPS,Laptop,996.56,Sofía,Insatisfecho con el producto,Otras Marcas
-20,2022-11-21,Dell XPS,Laptop,1101.51,Carlos,,Otras Marcas
-21,2023-09-12,iPad,Tablet,1460.54,Manuel,Insatisfecho con el producto,Apple
-22,2022-12-12,Sony Headphones,Accesorio de Audio,1770.65,Carmen,Excelente compra,Otras Marcas
-23,2023-06-16,Samsung Galaxy,Smartphone,1173.61,Sofía,Funciona bien,Otras Marcas
-24,2022-10-28,Sony Headphones,Accesorio de Audio,523.84,Javier,Sin comentarios,Otras Marcas
-25,2022-10-01,Samsung Galaxy,Smartphone,972.3,Carmen,Llegó a tiempo,Otras Marcas
-26,2022-12-20,Charger,Accesorio,843.77,Ana,Llegó a tiempo,Otras Marcas
-27,2023-02-23,Apple Watch,Wearable,233.94,Carmen,Sin comentarios,Apple
-28,2023-06-05,AirPods,Accesorio de Audio,1335.02,Sofía,Funciona bien,Apple
-29,2023-02-08,Dell XPS,Laptop,740.88,Juan,Sin comentarios,Otras Marcas
-30,2022-11-28,Lenovo Laptop,Laptop,851.65,Carlos,Sin comentarios,Otras Marcas
-31,2023-05-06,MacBook,Laptop,1734.48,Sofía,Insatisfecho con el producto,Apple
-32,2023-09-22,iPhone,Smartphone,155.63,Juan,Excelente compra,Apple
-33,2023-07-06,MacBook,Laptop,1324.24,Juan,Sin comentarios,Apple
-34,2022-10-03,AirPods,Accesorio de Audio,1310.05,Carmen,Excelente compra,Apple
-35,2023-02-21,AirPods,Accesorio de Audio,168.19,Carlos,Sin comentarios,Apple
-36,2023-04-04,Samsung Galaxy,Smartphone,1470.02,Sofía,Llegó a tiempo,Otras Marcas
-37,2023-05-06,Sony Headphones,Accesorio de Audio,1611.16,Sofía,Sin comentarios,Otras Marcas
-38,2023-07-08,MacBook,Laptop,263.07,Javier,Funciona bien,Apple
-39,2023-06-07,Samsung Galaxy,Smartphone,423.6,Marta,Llegó a tiempo,Otras Marcas
-40,2023-04-06,Samsung Galaxy,Smartphone,1095.76,Pedro,Llegó a tiempo,Otras Marcas
-41,2023-08-04,Sony Headphones,Accesorio de Audio,323.36,Marta,Funciona bien,Otras Marcas
-42,2023-08-09,Lenovo Laptop,Laptop,407.8,Sofía,Insatisfecho con el producto,Otras Marcas
-43,2023-03-15,Dell XPS,Laptop,952.12,Carmen,Insatisfecho con el producto,Otras Marcas
-44,2023-08-07,iPad,Tablet,1755.25,Manuel,Sin comentarios,Apple
-45,2023-03-26,Dell XPS,Laptop,197.0,Sofía,Llegó a tiempo,Otras Marcas
-46,2023-04-02,iPhone,Smartphone,1625.64,Ana,Sin comentarios,Apple
-47,2022-11-20,MacBook,Laptop,1719.14,Juan,Insatisfecho con el producto,Apple
-48,2023-05-13,Dell XPS,Laptop,240.92,Lucía,,Otras Marcas
-49,2023-09-03,iPad,Tablet,1321.68,Sofía,Sin comentarios,Apple
-50,2023-02-02,Charger,Accesorio,1104.15,Ana,Sin comentarios,Otras Marcas
-51,2022-12-25,MacBook,Laptop,78.78,Ana,Sin comentarios,Apple
-52,2023-07-24,iPad,Tablet,231.86,Pedro,,Apple
-53,2023-03-16,Samsung Galaxy,Smartphone,1519.45,Carlos,Insatisfecho con el producto,Otras Marcas
-54,2023-08-16,AirPods,Accesorio de Audio,510.94,Sofía,Sin comentarios,Apple
-55,2022-12-17,Lenovo Laptop,Laptop,842.51,Carlos,Excelente compra,Otras Marcas
-56,2023-04-28,iPhone,Smartphone,988.65,Manuel,Insatisfecho con el producto,Apple
-57,2022-11-08,iPad,Tablet,1736.07,Carmen,Insatisfecho con el producto,Apple
-58,2022-11-13,Dell XPS,Laptop,1809.76,Lucía,Sin comentarios,Otras Marcas
-59,2023-03-24,AirPods,Accesorio de Audio,371.04,Carmen,Sin comentarios,Apple
-60,2022-12-04,Dell XPS,Laptop,54.2,Ana,Llegó a tiempo,Otras Marcas
-61,2023-06-19,MacBook,Laptop,811.32,Juan,Calidad premium,Apple
-62,2022-09-30,iPad,Tablet,1856.71,Juan,Calidad premium,Apple
-63,2023-08-21,Dell XPS,Laptop,1581.0,Carlos,Calidad premium,Otras Marcas
-64,2023-09-02,Sony Headphones,Accesorio de Audio,606.24,Carmen,Sin comentarios,Otras Marcas
-65,2022-10-22,Apple Watch,Wearable,1408.35,Ana,Calidad premium,Apple
-66,2023-06-01,AirPods,Accesorio de Audio,1474.49,Pedro,,Apple
-67,2023-04-30,Charger,Accesorio,1577.55,Javier,Funciona bien,Otras Marcas
-68,2023-08-16,AirPods,Accesorio de Audio,1340.65,Carmen,Insatisfecho con el producto,Apple
-69,2023-05-29,Dell XPS,Laptop,999.01,Carlos,Llegó a tiempo,Otras Marcas
-70,2023-08-05,Dell XPS,Laptop,420.3,Lucía,Funciona bien,Otras Marcas
-71,2023-03-15,iPhone,Smartphone,474.52,Carlos,Sin comentarios,Apple
-72,2023-05-06,Sony Headphones,Accesorio de Audio,164.04,Ana,Insatisfecho con el producto,Otras Marcas
-73,2023-02-05,Charger,Accesorio,1484.69,Sofía,Sin comentarios,Otras Marcas
-74,2022-11-04,Lenovo Laptop,Laptop,168.87,Pedro,Sin comentarios,Otras Marcas
-75,2023-03-23,iPhone,Smartphone,661.53,Ana,,Apple
-76,2023-07-04,MacBook,Laptop,147.78,Pedro,Excelente compra,Apple
-77,2023-03-20,Charger,Accesorio,979.74,Marta,Excelente compra,Otras Marcas
-78,2023-03-28,iPad,Tablet,1842.8,Marta,Sin comentarios,Apple
-79,2023-06-10,Apple Watch,Wearable,1085.7,Juan,Calidad premium,Apple
-80,2022-10-17,iPhone,Smartphone,160.92,Pedro,Funciona bien,Apple
-81,2023-05-12,Apple Watch,Wearable,1040.27,Carmen,Calidad premium,Apple
-82,2022-10-01,Sony Headphones,Accesorio de Audio,1710.12,Lucía,Sin comentarios,Otras Marcas
-83,2022-10-11,MacBook,Laptop,183.62,Javier,Sin comentarios,Apple
-84,2022-10-29,MacBook,Laptop,182.52,Carlos,Sin comentarios,Apple
-85,2023-08-20,Lenovo Laptop,Laptop,1730.55,Marta,Calidad premium,Otras Marcas
-86,2022-11-18,MacBook,Laptop,837.36,Carlos,Sin comentarios,Apple
-87,2022-11-04,Dell XPS,Laptop,1886.11,Carlos,Sin comentarios,Otras Marcas
-88,2023-06-30,AirPods,Accesorio de Audio,1160.87,Lucía,,Apple
-89,2022-12-26,AirPods,Accesorio de Audio,1178.89,Ana,Excelente compra,Apple
-90,2023-05-23,Lenovo Laptop,Laptop,127.5,Carlos,Funciona bien,Otras Marcas
-91,2023-07-04,Dell XPS,Laptop,209.87,Pedro,Sin comentarios,Otras Marcas
-92,2023-02-01,AirPods,Accesorio de Audio,1331.88,Lucía,Sin comentarios,Apple
-93,2023-03-15,iPad,Tablet,1152.19,Marta,,Apple
-94,2023-05-10,Dell XPS,Laptop,666.92,Sofía,Calidad premium,Otras Marcas
-95,2022-11-02,Sony Headphones,Accesorio de Audio,558.49,Carlos,Excelente compra,Otras Marcas
-96,2022-10-08,Samsung Galaxy,Smartphone,1355.97,Juan,Sin comentarios,Otras Marcas
-97,2022-12-14,Apple Watch,Wearable,662.66,Lucía,Funciona bien,Apple
-98,2023-06-05,Dell XPS,Laptop,567.95,Ana,Calidad premium,Otras Marcas
-99,2022-10-10,Apple Watch,Wearable,305.21,Manuel,,Apple
-100,2023-04-12,iPad,Tablet,1308.73,Marta,Calidad premium,Apple
-101,2023-07-24,iPad,Tablet,231.86,Pedro,,Apple
-102,2023-03-16,Samsung Galaxy,Smartphone,1519.45,Carlos,Insatisfecho con el producto,Otras Marcas
-103,2023-08-16,AirPods,Accesorio de Audio,510.94,Sofía,Sin comentarios,Apple
-104,2022-12-17,Lenovo Laptop,Laptop,842.51,Carlos,Excelente compra,Otras Marcas
-105,2023-04-28,iPhone,Smartphone,988.65,Manuel,Insatisfecho con el producto,Apple
+ID,Fecha,Producto,Categoría,Precio,Cliente,Comentarios
+1,2022-11-02,iPhone,Smartphone,828.03,Manuel,Sin comentarios
+2,2023-07-30,Apple Watch,Wearable,1359.79,Pedro,Calidad premium
+3,2023-09-13,iPhone,Smartphone,778.17,Juan,Llegó a tiempo
+4,2023-05-08,Charger,Accesorio,1804.25,Ana,Insatisfecho con el producto
+5,2023-05-23,Samsung Galaxy,Smartphone,930.4,Manuel,Sin comentarios
+6,2023-06-03,iPad,Tablet,533.42,Javier,Sin comentarios
+7,2023-07-16,MacBook,Laptop,174.85,Javier,Excelente compra
+8,2023-08-04,Apple Watch,Wearable,91.02,Juan,Sin comentarios
+9,2022-10-14,Sony Headphones,Accesorio de Audio,1130.15,Juan,Sin comentarios
+10,2022-12-20,Charger,Accesorio,1197.46,Carmen,Llegó a tiempo
+11,2023-08-12,Apple Watch,Wearable,64.02,Marta,Insatisfecho con el producto
+12,2022-11-27,Lenovo Laptop,Laptop,1430.29,Carmen,Funciona bien
+13,2023-02-21,Samsung Galaxy,Smartphone,164.8,Sofía,Insatisfecho con el producto
+14,2023-09-09,Lenovo Laptop,Laptop,181.43,Carlos,Llegó a tiempo
+15,2023-09-10,AirPods,Accesorio de Audio,111.26,Pedro,Sin comentarios
+16,2023-08-09,iPad,Tablet,694.34,Juan,Llegó a tiempo
+17,2023-06-06,AirPods,Accesorio de Audio,1052.6,Marta,Excelente compra
+18,2023-05-29,Apple Watch,Wearable,593.03,Pedro,Funciona bien
+19,2023-01-10,Dell XPS,Laptop,996.56,Sofía,Insatisfecho con el producto
+20,2022-11-21,Dell XPS,Laptop,1101.51,Carlos,
+21,2023-09-12,iPad,Tablet,1460.54,Manuel,Insatisfecho con el producto
+22,2022-12-12,Sony Headphones,Accesorio de Audio,1770.65,Carmen,Excelente compra
+23,2023-06-16,Samsung Galaxy,Smartphone,1173.61,Sofía,Funciona bien
+24,2022-10-28,Sony Headphones,Accesorio de Audio,523.84,Javier,Sin comentarios
+25,2022-10-01,Samsung Galaxy,Smartphone,972.3,Carmen,Llegó a tiempo
+26,2022-12-20,Charger,Accesorio,843.77,Ana,Llegó a tiempo
+27,2023-02-23,Apple Watch,Wearable,233.94,Carmen,Sin comentarios
+28,2023-06-05,AirPods,Accesorio de Audio,1335.02,Sofía,Funciona bien
+29,2023-02-08,Dell XPS,Laptop,740.88,Juan,Sin comentarios
+30,2022-11-28,Lenovo Laptop,Laptop,851.65,Carlos,Sin comentarios
+31,2023-05-06,MacBook,Laptop,1734.48,Sofía,Insatisfecho con el producto
+32,2023-09-22,iPhone,Smartphone,155.63,Juan,Excelente compra
+33,2023-07-06,MacBook,Laptop,1324.24,Juan,Sin comentarios
+34,2022-10-03,AirPods,Accesorio de Audio,1310.05,Carmen,Excelente compra
+35,2023-02-21,AirPods,Accesorio de Audio,168.19,Carlos,Sin comentarios
+36,2023-04-04,Samsung Galaxy,Smartphone,1470.02,Sofía,Llegó a tiempo
+37,2023-05-06,Sony Headphones,Accesorio de Audio,1611.16,Sofía,Sin comentarios
+38,2023-07-08,MacBook,Laptop,263.07,Javier,Funciona bien
+39,2023-06-07,Samsung Galaxy,Smartphone,423.6,Marta,Llegó a tiempo
+40,2023-04-06,Samsung Galaxy,Smartphone,1095.76,Pedro,Llegó a tiempo
+41,2023-08-04,Sony Headphones,Accesorio de Audio,323.36,Marta,Funciona bien
+42,2023-08-09,Lenovo Laptop,Laptop,407.8,Sofía,Insatisfecho con el producto
+43,2023-03-15,Dell XPS,Laptop,952.12,Carmen,Insatisfecho con el producto
+44,2023-08-07,iPad,Tablet,1755.25,Manuel,Sin comentarios
+45,2023-03-26,Dell XPS,Laptop,197.0,Sofía,Llegó a tiempo
+46,2023-04-02,iPhone,Smartphone,1625.64,Ana,Sin comentarios
+47,2022-11-20,MacBook,Laptop,1719.14,Juan,Insatisfecho con el producto
+48,2023-05-13,Dell XPS,Laptop,240.92,Lucía,
+49,2023-09-03,iPad,Tablet,1321.68,Sofía,Sin comentarios
+50,2023-02-02,Charger,Accesorio,1104.15,Ana,Sin comentarios
+51,2022-12-25,MacBook,Laptop,78.78,Ana,Sin comentarios
+52,2023-07-24,iPad,Tablet,231.86,Pedro,
+53,2023-03-16,Samsung Galaxy,Smartphone,1519.45,Carlos,Insatisfecho con el producto
+54,2023-08-16,AirPods,Accesorio de Audio,510.94,Sofía,Sin comentarios
+55,2022-12-17,Lenovo Laptop,Laptop,842.51,Carlos,Excelente compra
+56,2023-04-28,iPhone,Smartphone,988.65,Manuel,Insatisfecho con el producto
+57,2022-11-08,iPad,Tablet,1736.07,Carmen,Insatisfecho con el producto
+58,2022-11-13,Dell XPS,Laptop,1809.76,Lucía,Sin comentarios
+59,2023-03-24,AirPods,Accesorio de Audio,371.04,Carmen,Sin comentarios
+60,2022-12-04,Dell XPS,Laptop,54.2,Ana,Llegó a tiempo
+61,2023-06-19,MacBook,Laptop,811.32,Juan,Calidad premium
+62,2022-09-30,iPad,Tablet,1856.71,Juan,Calidad premium
+63,2023-08-21,Dell XPS,Laptop,1581.0,Carlos,Calidad premium
+64,2023-09-02,Sony Headphones,Accesorio de Audio,606.24,Carmen,Sin comentarios
+65,2022-10-22,Apple Watch,Wearable,1408.35,Ana,Calidad premium
+66,2023-06-01,AirPods,Accesorio de Audio,1474.49,Pedro,
+67,2023-04-30,Charger,Accesorio,1577.55,Javier,Funciona bien
+68,2023-08-16,AirPods,Accesorio de Audio,1340.65,Carmen,Insatisfecho con el producto
+69,2023-05-29,Dell XPS,Laptop,999.01,Carlos,Llegó a tiempo
+70,2023-08-05,Dell XPS,Laptop,420.3,Lucía,Funciona bien
+71,2023-03-15,iPhone,Smartphone,474.52,Carlos,Sin comentarios
+72,2023-05-06,Sony Headphones,Accesorio de Audio,164.04,Ana,Insatisfecho con el producto
+73,2023-02-05,Charger,Accesorio,1484.69,Sofía,Sin comentarios
+74,2022-11-04,Lenovo Laptop,Laptop,168.87,Pedro,Sin comentarios
+75,2023-03-23,iPhone,Smartphone,661.53,Ana,
+76,2023-07-04,MacBook,Laptop,147.78,Pedro,Excelente compra
+77,2023-03-20,Charger,Accesorio,979.74,Marta,Excelente compra
+78,2023-03-28,iPad,Tablet,1842.8,Marta,Sin comentarios
+79,2023-06-10,Apple Watch,Wearable,1085.7,Juan,Calidad premium
+80,2022-10-17,iPhone,Smartphone,160.92,Pedro,Funciona bien
+81,2023-05-12,Apple Watch,Wearable,1040.27,Carmen,Calidad premium
+82,2022-10-01,Sony Headphones,Accesorio de Audio,1710.12,Lucía,Sin comentarios
+83,2022-10-11,MacBook,Laptop,183.62,Javier,Sin comentarios
+84,2022-10-29,MacBook,Laptop,182.52,Carlos,Sin comentarios
+85,2023-08-20,Lenovo Laptop,Laptop,1730.55,Marta,Calidad premium
+86,2022-11-18,MacBook,Laptop,837.36,Carlos,Sin comentarios
+87,2022-11-04,Dell XPS,Laptop,1886.11,Carlos,Sin comentarios
+88,2023-06-30,AirPods,Accesorio de Audio,1160.87,Lucía,
+89,2022-12-26,AirPods,Accesorio de Audio,1178.89,Ana,Excelente compra
+90,2023-05-23,Lenovo Laptop,Laptop,127.5,Carlos,Funciona bien
+91,2023-07-04,Dell XPS,Laptop,209.87,Pedro,Sin comentarios
+92,2023-02-01,AirPods,Accesorio de Audio,1331.88,Lucía,Sin comentarios
+93,2023-03-15,iPad,Tablet,1152.19,Marta,
+94,2023-05-10,Dell XPS,Laptop,666.92,Sofía,Calidad premium
+95,2022-11-02,Sony Headphones,Accesorio de Audio,558.49,Carlos,Excelente compra
+96,2022-10-08,Samsung Galaxy,Smartphone,1355.97,Juan,Sin comentarios
+97,2022-12-14,Apple Watch,Wearable,662.66,Lucía,Funciona bien
+98,2023-06-05,Dell XPS,Laptop,567.95,Ana,Calidad premium
+99,2022-10-10,Apple Watch,Wearable,305.21,Manuel,
+100,2023-04-12,iPad,Tablet,1308.73,Marta,Calidad premium
+101,2023-07-24,iPad,Tablet,231.86,Pedro,
+102,2023-03-16,Samsung Galaxy,Smartphone,1519.45,Carlos,Insatisfecho con el producto
+103,2023-08-16,AirPods,Accesorio de Audio,510.94,Sofía,Sin comentarios
+104,2022-12-17,Lenovo Laptop,Laptop,842.51,Carlos,Excelente compra
+105,2023-04-28,iPhone,Smartphone,988.65,Manuel,Insatisfecho con el producto
